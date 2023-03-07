@@ -1,0 +1,19 @@
+/* Arka plan rengi ve marka yazı sitili */
+body{
+    background-color: #E9ECEF;
+    font-family: 'Lobster', cursive;
+    font-family: 'Raleway', sans-serif;
+    font-family: 'Source Serif Pro', serif;
+}
+
+
+/* footer renklerin belirlenmesi */
+.footer {
+    background-color: rgb(0, 85, 119);
+    color: #E9ECEF;
+    margin-top: 24px;
+}
+
+.navbar {
+    background-color: rgb(0, 85, 119);
+}
